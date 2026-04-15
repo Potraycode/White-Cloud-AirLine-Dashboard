@@ -41,3 +41,4 @@ Country/region-wise performance
 
 📷 Dashboard Preview
 
+![Dashboard](https://github.com/user-attachments/assets/48fa262c-7464-4f26-ad92-1e138fd168c0)
